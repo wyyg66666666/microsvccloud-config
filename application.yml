@@ -13,4 +13,4 @@ spring:
 spring: 
   profiles: test   #测试环境
   application: 
-      name: microsvccloud-config-gh-test
+      name: microsvccloud-config-gh-test-1
